@@ -1,0 +1,27 @@
+Hay varios trucos visuales que tiene el Ocarina of Time, muchos que le han ahorrado bastante trabajo a los desarrolladores, y han buscado de comprimir el juego lo suficiente para que pueda correr en la consola de esa época, la Nintendo 64. Bien sabemos que para ese entonces, las consolas de esa época no eran las más potentes del mundo, entonces tenían que limitarse un poco a la hora de desarrollar el juego.
+
+Efecto de los cuadros del Fantasma de Ganon
+
+La pelea con este jefe en el templo del bosque es muy icónico para muchos que hayan jugado la entrega del juego, pero sobre todo lo que más llama la atención de este duelo, es la jugabilidad y las mecánicas que implementan. Sabemos que el fantasma de Ganon entra y sale de un cuadro, por el que se ve reflejado en todos los cuadros de la sala, luego sale aleatoriamente de uno de ellos y nos lanza un rayo. Entonces cómo se supone que hicieron para que de la sensación de que el personaje entra en el cuadro. Pues han optado que al caballo acercarse lo suficiente o tocar el cuadro se encoja.
+
+De esta forma se va encogiendo y lo van trasladando hacia arriba, el final del camino del cuadro para que cuando regrese, se desplace hacia abajo y se vuelva a su tamaño original gradualmente. Es una idea ingeniosa que muchos en su época no se habrían dado cuenta, y quedaría impregnado en las mentes de mucho como la aventura más épica del siglo. Marcar un hito en los videojuegos
+
+La desaparición de Sheik en el lago Hylia
+
+Al terminar el templo del Agua en el juego, aparecemos arriba de este mismo en el lago Hylia, y Sheik aparece para hablar con nosotros, luego de terminar de hablar lo que iba a hablar, desaparece. Sin embargo este efcto simplemente lo que han hecho es hacer que se desplace hacia abajo por el suelo hasta que desaparezca y listo, da la impresión de que se esfumó. Luego lo recolocan en la cima del árbol que tenemos atrás, y aparece en la cinemática que Sheik se lanza al agua sin más. Sin embargo, la distancia que había entre el árbol y el agua era considerable, por lo que hicieron fue una simple ilusión. Decidieron hacer que Sheik se lanzará del árbol y atravesará el piso en la zona en que aterrizace. Luego añadirían un efecto de salpicadura en el agua para que parezca que se lanzó al agua, pero bajo perspectiva del jugador esto pasa desapercibido, ya que si da la impresión de que entra al agua
+
+El camino torcido del Templo del Bosque
+
+La gente piensa muchas veces que pasando por este camino Link va girando conforme va atravesando el camino torcido, sin embargo se ha demostrado que es el mapa que cambia su eje alterando la gravedad para que de la ilusión de que estás pasando por un camino torcido. Quien se mueve en esta escena no es Link sino el templo, y de esa forma da esa sensación perfecta que quisieron transmitir de intriga y misterio en un bosque. 
+
+Los vendedores de Tienda sin la mitad del cuerpo
+
+Así es, tal y como se pueden imaginar, en los diseños poligonales de los sprites del juego han decidido no diseñar la parte inferior de los personajes que trabajan en las tiendas. Ya que sería un malgasto de memoria innecesario, y así de esta forma refresca un poco mejor la RAM y no se congestiona. Una idea realmente bastante ingeniosa ya que Nintendo ha sabido cómo manejar la compatibilidad de los juegos con sus consolas
+
+Las casas hechas con imágenes planas
+
+El juego en sí, es cierto que tiene su diseño en 3 dimensiones, pero para cuando estás dentro de una casa, o incluso algunos objetos que están pegados a las paredes y demás son imágenes planas. Son solo imagenes que han puesto para simular que el personaje está en un escenario 3D, pero al final esas imágenes son 2D y ha servido mucho para optimizar recursos en el juego. Esto es muy notorio por ejemplo en la casa del árbol de Link en el bosque Kokiri. Cuando entras te das cuenta que no es igual a los demás lugares del juego, lo mismo pasa con la entrada del templo del tiempo, que es una imagen plana. Ya que pare ese entonces no hubieran podido cargar todo un mapa tridimensional con la arquitectura bien detallada, sin embargo no les ha quedado nada mal
+
+Más cosas hechas con imágenes planas
+
+Al final gran parte del juego está constituido de ilusiones ópticas, por ejemplo, lo que pensamos que son los escalones de las escaleras en el juego realmente son rampas, con la imágen de una escalera ya que esto iba a traer complicaciones con la detección de los polígonos en el juego, por lo que conllevaría a mucho más trabajo, sin embargo le colocaron la animación de que Link pareciera que sube escaleras para que de esa sensación. Lo mismo pasa con los escenarios de los templos y mazmorras, todo está construido con imágenes planas en algún punto. Ya que de lo contrario imagínense ¿cuánto tiempo les hubiera tomado desarrollar el juego?. Obviamente con las limitaciones de la consola para esa época no hubieran podido hacer algo similar, sin embargo quedo de maravilla el cómo jugaron con la cámara para que la perspectiva del jugar tuviera la sensación de que está en un mundo vivo.

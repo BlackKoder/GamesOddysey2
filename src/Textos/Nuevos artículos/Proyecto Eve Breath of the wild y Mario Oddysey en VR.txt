@@ -1,0 +1,58 @@
+Alguien recuerda la vez que Nintendo nos quizo vender cartón a 80$?. Quizás muchos no se acuerden, pero en el 2018 Nintendo había anunciado una nueva forma de explotar el potencial del hardware de la switch para jugar de una forma mucho más innovadora, cosa que al final no resultó como todos esperaban.
+
+Nintendo Labo se hizo conocer con el lema "Crea, Juega, Descubre", es cierto que Nintendo se destaca ante los demás por su forma de innovar, por hacer cosas que otras compañías de videojuegos en algunos casos no se atreverían. La Switch es el vivo caso de eso, ya que es el tipo de consola que puedes utilizarla casi de la forma que más te plazca, desde usarla en la comodidad de tu hogar hasta llevartela a un sitio público. puedes usarla con la pantalla de la consola, o bien puedes conectarla a un televisor. Cualquiera que sea el caso, tienes muchas posibilidades de poder usar una Switch, incluso el hardware tiene una tecnología distinta a la que otras consolas sencillamente no utilizan en su mayoría de casos.
+
+Y bien la mayoría de Software y juegos mayormente hacen uso de la tecnología que tiene el hardware, pero claro no todos hacen uso de eso... Pero eso ya es tema para otro momento. A Nintendo se le ocurrió hacer que la tecnología que muchos no utilizan de la consola se pudiera utilizar en su máximo esplendor a través de piezas de cartón... Así es, piezas que podrías bien tener en la misma cómodidad de tu hogar. Claro, evidentemente con como es Nintendo no iban a hacer que las cosas fueran tan fáciles para sus consumidores, pero vayamos por parte.
+
+De qué viene la idea de este proyecto?
+
+Tsubasa Sakaguchi, Un diseñador de juegos de la compañía. Encargado en su época de diseñar personajes para el reconocido Twilight princess, o ser el director de la entrega de Splatoon para el año 2015. Y hasta el último momento fue el director encargado de llevar a cabo el proyecto de Nintendo Labo.
+
+Sakaguchi pensaba en buscar de hacer un juego que puediera ser jugado tanto con los dos Joy-cons como con uno sólo. Pero después se dio cuenta que esta funcionalidad estaba ya hecha para  la Nintendo Wii, con el Wii mote y el nunchuck. Luego pensó en la idea de utilizar los controles de forma separada por ambos jugadores, pero esa característica ya se remontaba sobre tiempos inmemorables con la Nes. Luego de eso recordó algo que era un poco obvio, pero que nadie se había dado cuenta en cuánto al hardware. Y era que los Joy-Cons cuentan con sensores de movimiento, infrarrojos y un giroscopio.
+
+Y claro, hacen una tecnología con un hardware que se supone que va a revolucionar en la industria de los juegos actuales y nadie sabe que los Joy-Cons poseen dicha tecnología. Pero al final, gracias a ese descubrimiento, es que pusieron manos a la obra el proyecto de Nintendo Labo.
+
+La mayoría de los Toy-Cons trabajan con la tecnología de los Joy-Cons, por ejemplo el piano utiliza el sensor del infrarrojo de uno de los joycons, y con la pulsación de una de estás teclas en el piano, el Joy-con lo detecta con su sensor y lo interpreta. 
+
+De la misma forma pasa con la caña de pescar, que un Joy-Con hace una cosa y el otro hace otra. Esto se debe a que los joy-con fueron fabricados para que ambos trabajen de forma independiente cada uno, y por tanto pueden estar recibiendo información de forma distinta, o haciendo acciones distintas. Pero gracias a esto es que se puede llevar a cabo el juego de pesca.
+
+Kits de Labo
+
+Nintendo Labo a lo largo de el desarrollo de su proyecto ofrecieron varios kits, como por ejemplo el kit variado que viene con 5 Toy-Cons
+
+Un auto a control remoto, al cual las vibraciones de los Joy-Con le sirven para proporcionar impulso y dirección para el coche. El software del juego permite al jugador controlar el coche como un vehículo a control remoto normal usando la consola como el mando.
+
+Una caña de pescar donde los Joy-Con están en el carrete y el mango de la varilla. El juego recibe los movimientos de los Joy-Con para simular un juego de pesca.
+
+Un piano de juguete con una octava completa de teclas; la consola se sienta encima de esta para servir como un soporte musical.
+
+Una moto con los Joy-Con insertados en el manillar, en cualquiera de los lados de la consola para la dirección
+
+Una casa con una ranura para insertar diferentes componentes que pueden interactuar con el software del juego en la pantalla de la consola.
+
+Más adelante se hicieron cargo de sacar otro kit, el kit de Robot, el cúal te hace tener un traje de mecha, con el que puedes simular que eres el robot del juego y detecta tus movimientos, muy interesante la verdad.
+
+Luego en Noviembre del 2018 se encargaron de sacar el kit vehículo, que este traía un automóvil, un submarino y un avión. Esto precisamente para poder usarlo con el Mario Kart Deluxe 8
+
+En el 2019 se hizo público en redes sociales, que se iba a sacar un kit VR para poder jugar juegos de la Switch en realidad virtual, cosa que por primera vez iba a llegar a Nintendo, el kit iba a ser compatible con los juegos de Zelda Breath of the wild, Mario Odyssey, Captain Toad: Treasure Tracker y el famoso Super Smash Bros Ultimate.
+
+Seamos claros con este kit, realmente muchos tenían las expectativas muy altas con respecto a este proyecto, pero al ver los resultados de Breath of the wild y el Mario Odyssey se dieron cuenta de que no fue para nada una experiencia única. Empezando porque para poder usar las gafas, y armarlas tú mismo, claro está que es la filosofía de lo que predica el proyecto Labo de Nintendo, pero es una idea tan inestable que en cualquier momento podría caerse tu switch en un mal movimiento, igualmente para poder jugar con las gafas de realidad virtual, debes de sujetar los joycons con las manos suspendidas en el aire sobre la cabeza. Y dudo mucho que alguien pueda jugar de esta forma por más de 30 minutos siquiera, entonces para juegos de altas jornadas de juego como el Breath of the wild, realmente es algo que es poco disfrutable.
+
+Sobre todo porque la cámara te hace sentir mareado como muchas veces en juegos de realidad virtual en los que interactúas como tercera persona, esto realmente es poco útil y no saca ningún provecho al juego, ya que estámos jugando exactamente lo mismo desde otro ángulo de la cámara que al final no podemos controlar bien, y que bien termina más tembloroso de lo que debería la visión de la cámara. 
+
+En el caso del Mario Odyssey muchas veces la cámara se queda fija, y nosotros observamos mientras Mario está mucho más lejos que nosotros en tercera persona. Es cierto que esto funciona igual que la mayoría de juego de VR de poder mirar otras zonas con las gafas, mientras el personaje va por otro lado. Pero realmente, me parece que esta funcionalidad es innecesaria y absurda, a parte de ser poco pulida. Realmente siento que han debido de aprovechar el máximo potencial que les podía ofrecer la consola, pero al final solo decidieron hacer eso.
+
+No fue muy grato que la consola estuviera en un contenedor inestable, pero al final lo que piensa Nintendo de esto, es que ellos tenían pensado que los niños de entre 6 y 12 años pudieran armar sus propios Toy-Cons, y qué mejor forma de hacerlo que con materiales como el cartón? que son de fácil acceso para un niño, pero corrección, este material no es para nada resistente a caídas, golpes, humedad, o cualquier tipo de daño ya que se deteriora con el tiempo y terminas perdiendo el dinero que habías invertido en él. Cada Toy-Con por lo general está a 80$. Y estos mandan los planos en un cartón para que tú armes tu propio Toy-Con y tengas un sentido más de pertenencia, sobre todo porque el objetivo era adentrar a los niños a entender cómo es el mundo de la programación la robótica, y la física básica puesto que al armar sus juguetes por ellos mismos, entenderían cómo está conformado el funcionamiento de la consola, por tanto el sentido del proyecto de Labo era que fuera didáctico y que aportara un valor inquisitivo.
+
+Pero vayamos a lo cierto, para un público que ronda estas edades normalmente no tendrían el cuidado de que no le pase nada a la consola, entonces encima de que es muy caro los Toy-Cons también terminarían dañando la consola en el peor de los casos, por lo tanto, saldría el doble de caro.
+
+Nintendo ha debido de aprovechar el potencial de Nintendo Labo haciendo que se incluyera no solo ese público determinado, sino más a nivel generalizado. Por ejemplo, con el público adulto, es cierto que lo que muestran en su sitio oficial es que Nintendo Labo trae diversión y está dedicado a los niños, y a los que tienen alma de niño. Pero esto igual no está pensado para los adultos a pesar de todo, puesto que han podido hacerlo con un material más resistente y duradero, que por lo menos justifique que no estamos comprando cartón a 80$.
+
+Al final posiblemente Nintendo no consiguió lo que esperaba en cuánto a ventas, con conseguir nada más ventas para instituciones y estudiantes, o quién sabe si ese era el público al que iba orientado, pero el caso es que muchos jugadores no buscaron de comprar el producto de forma desesperada. De hecho, en el primer año del proyecto solo se vendió alrededor de 1 millón de ventas, claro esto no quiere decir que sea un fracaso total, pero pensemos en que se tardó todo un año y fue solo un público muy selecto, ni siquiera dejó mucho bueno que decir.
+
+Y después trataron de aumentar las ventas de la Nintendo Switch OLED buscando de sacar otra versión de Nintendo Labo pero únicamente compatible para la Switch OLED y que no fuera compatible con la original, así se asegurarían de que los usuarios comprarían una Switch OLED. Pero sinceramente esto no es algo que muchos harían, comprar la Switch OLED solo por jugar juegos de Nintendo Labo, hechos con materiales reciclados, y juegos que parecen más bien del tipo muy casual.
+
+Y realmente no me parece que Nintendo haya hecho algo malo con lo que hizo, ya que buscaron de ser creativos y tratar de innovar en la industria de los juegos, puesto que, es normal si es su filosofía.
+
+
+
